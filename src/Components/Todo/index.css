@@ -1,0 +1,8 @@
+.TodoApp {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 1px solid #33ccff;
+    margin-top: 100px;
+    padding: 10px;
+}
